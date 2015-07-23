@@ -11,5 +11,14 @@
   "dependencies": {
     "express": "^4.13.1",
     "passport": "^0.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tgreener/learning-passport-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgreener/learning-passport-auth/issues"
+  },
+  "homepage": "https://github.com/tgreener/learning-passport-auth#readme"
 }
