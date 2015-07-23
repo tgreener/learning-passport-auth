@@ -1,6 +1,6 @@
 {
   "name": "learning-passport-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little app for learning authentication using passport",
   "main": "main.js",
   "scripts": {
